@@ -1,0 +1,2 @@
+nombre = "marcial"
+print(nombre)
